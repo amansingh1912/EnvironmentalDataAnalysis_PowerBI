@@ -1,5 +1,7 @@
 # Environmental Data Analysis
 
+![environmental data](https://user-images.githubusercontent.com/72240938/194616043-24462951-ff8a-484f-8b82-f935eba7dfd0.png)
+
 It is a report made on the environment niche -- part of the EDNA data challenge.
 
 ### Requirements of the client:
