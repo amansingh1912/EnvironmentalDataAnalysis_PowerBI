@@ -39,7 +39,7 @@ Here, I used Figma for creating layout for background which is 16:9 i.e. 720*128
 ## Conclusion:
 Overall, it was a good dataset to analyse and it gave me good understanding of data and improving at storytelling
 
-[Dashboard] (https://lnkd.in/dAC99nUH)
+## [Dashboard](https://lnkd.in/dAC99nUH)
 
 
 
