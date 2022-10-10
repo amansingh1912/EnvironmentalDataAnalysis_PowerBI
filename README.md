@@ -43,5 +43,6 @@ Overall, it was a good dataset to analyse and it gave me good understanding of d
 
 ## [Dashboard](https://lnkd.in/dAC99nUH)
 
+## [Highlights of the Report](https://docs.google.com/presentation/d/1n5DUdO-dAYgEhXo5um5cZs09TcpC2ej3/edit?usp=sharing&ouid=114788542924631223735&rtpof=true&sd=true)
 
 
