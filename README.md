@@ -26,7 +26,7 @@ I applied one DAX measure here in the dataset i.e. DISTINCTCOUNT here.
 I splitted the visuals in 5 pages i.e 
 
 * Overview
-* Asthma: 
+* Asthma
 * Heavy Precipitation
 * Air Toxin Concentration
 * Human Exposure to contaminants
